@@ -49,11 +49,11 @@
     "settings": {
       "autoUpdate": "Automatická Aktualizace",
       "allowMetrics": "Hlášení Pádu",
-      "autoUpdateDescription": "Automaticky stáhnout a instalovat aktualizace když se stanou dostupnými. Před Instalací aktualizací budete vždy informováni.",
-      "allowMetricsDescription": "Help improve ComfyUI by sending anonymous crash reports. No personal information or workflow content will be collected. This can be disabled at any time in the settings menu.",
-      "learnMoreAboutData": "Learn more about data collection",
+      "autoUpdateDescription": "Automaticky stáhnout a instalovat aktualizace když budou dostupné. Před Instalací aktualizací budete vždy informováni.",
+      "allowMetricsDescription": "Pomozte zlepšit ComfyUI posíláním anonymních hlášení pádů. Žádné soukromé informace nebo obsah workflow nebudou schromažďovány. Toto může být zakázáno kdykoliv v nastavení.",
+      "learnMoreAboutData": "Zjistěte víc o schromažďování dat",
       "dataCollectionDialog": {
-        "title": "About Data Collection",
+        "title": "O Schromažďování Dat",
         "whatWeCollect": "What we collect:",
         "whatWeDoNotCollect": "What we don't collect:",
         "errorReports": "Error message and stack trace",
