@@ -1,29 +1,29 @@
 {
   "welcome": {
-    "title": "Welcome to ComfyUI",
-    "getStarted": "Get Started"
+    "title": "Vítejte v ComfyUI",
+    "getStarted": "začněme"
   },
   "userSelect": {
-    "newUser": "New user",
-    "enterUsername": "Enter a username",
-    "existingUser": "Existing user",
-    "selectUser": "Select a user",
-    "next": "Next"
+    "newUser": "Nový uživatel",
+    "enterUsername": "zadejte uživatelské jméno",
+    "existingUser": "Existující uživatel",
+    "selectUser": "Vyberte uživatele",
+    "next": "Další"
   },
   "notSupported": {
-    "title": "Your device is not supported",
-    "message": "Only following devices are supported:",
-    "learnMore": "Learn More",
-    "reportIssue": "Report Issue",
+    "title": "Vaše zařízení není podporováno",
+    "message": "Pouze následující zařízení jsou podporovány:",
+    "learnMore": "Zjistit více",
+    "reportIssue": "Nahlásit chybu",
     "supportedDevices": {
-      "macos": "MacOS (M1 or later)",
-      "windows": "Windows (Nvidia GPU with CUDA support)"
+      "macos": "MacOS (M1 nebo novější)",
+      "windows": "Windows (Nvidia GPU s podporou CUDA)"
     }
   },
   "downloadGit": {
-    "title": "Download git",
-    "message": "Unable to locate git.  A working copy of git is required for normal operation.",
-    "instructions": "Please download and install the latest version for your operating system.  The Download git button below opens the git-scm.com downloads page.",
+    "title": "Stáhnout git",
+    "message": "Nelze najít git.  Fungující kopie git je požadovaná pro normalní funkci.",
+    "instructions": "Prosím stáhněte a instalujte nejnovější verzi pro váš operační systém.  The Download git button below opens the git-scm.com downloads page.",
     "warning": "If you are sure you do not need git installed, or there has been a mistake, you may click Skip to byapss this check.  Attempting to run ComfyUI without a working copy of git is not currently supported.",
     "gitWebsite": "Download git",
     "skip": "Skip"
