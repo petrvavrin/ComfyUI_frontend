@@ -44,12 +44,12 @@
     "migrationSourcePathDescription": "Pokud máte existující ComfyUI instalaci, můžeme kopírovat/propojit vaše existující uživatelské soubory a modely do nové instalace.",
     "selectItemsToMigrate": "Vyberte Položky pro Migraci",
     "migrationOptional": "Migrace je dobrovolná. Pokud nemáte existující instalaci, tento krok můžete přeskočit.",
-    "desktopAppSettings": "Desktop App Settings",
-    "desktopAppSettingsDescription": "Configure how ComfyUI behaves on your desktop. You can change these settings later.",
+    "desktopAppSettings": "Nastavení Desktopové Aplikace",
+    "desktopAppSettingsDescription": "Nakonfigurujte jak se ComfyUI chová na vaší ploše. Toto nastavení můžete později změnit",
     "settings": {
-      "autoUpdate": "Automatic Updates",
-      "allowMetrics": "Crash Reports",
-      "autoUpdateDescription": "Automatically download and install updates when they become available. You'll always be notified before updates are installed.",
+      "autoUpdate": "Automatická Aktualizace",
+      "allowMetrics": "Hlášení Pádu",
+      "autoUpdateDescription": "Automaticky stáhnout a instalovat aktualizace když se stanou dostupnými. You'll always be notified before updates are installed.",
       "allowMetricsDescription": "Help improve ComfyUI by sending anonymous crash reports. No personal information or workflow content will be collected. This can be disabled at any time in the settings menu.",
       "learnMoreAboutData": "Learn more about data collection",
       "dataCollectionDialog": {
