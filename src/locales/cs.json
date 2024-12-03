@@ -49,7 +49,7 @@
     "settings": {
       "autoUpdate": "Automatická Aktualizace",
       "allowMetrics": "Hlášení Pádu",
-      "autoUpdateDescription": "Automaticky stáhnout a instalovat aktualizace když se stanou dostupnými. You'll always be notified before updates are installed.",
+      "autoUpdateDescription": "Automaticky stáhnout a instalovat aktualizace když se stanou dostupnými. Před Instalací aktualizací budete vždy informováni.",
       "allowMetricsDescription": "Help improve ComfyUI by sending anonymous crash reports. No personal information or workflow content will be collected. This can be disabled at any time in the settings menu.",
       "learnMoreAboutData": "Learn more about data collection",
       "dataCollectionDialog": {
