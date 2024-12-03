@@ -23,15 +23,15 @@
   "downloadGit": {
     "title": "Stáhnout git",
     "message": "Nelze najít git.  Fungující kopie git je požadovaná pro normalní funkci.",
-    "instructions": "Prosím stáhněte a instalujte nejnovější verzi pro váš operační systém.  The Download git button below opens the git-scm.com downloads page.",
-    "warning": "If you are sure you do not need git installed, or there has been a mistake, you may click Skip to byapss this check.  Attempting to run ComfyUI without a working copy of git is not currently supported.",
-    "gitWebsite": "Download git",
-    "skip": "Skip"
+    "instructions": "Prosím stáhněte a instalujte nejnovější verzi pro váš operační systém.  Tlačítko pro stáhnutí git níže otevře git-scm.com pro stažení.",
+    "warning": "Pokud jste si jistý že nepotřebujete nainstalovat git, nebo někde byla chyba, můžete stisknout Přeskočit pro přeskočení této kontroly.  Pokus o spuštění ComfyUI bez fungující kopie git není momentálně podporováno.",
+    "gitWebsite": "Stáhnout git",
+    "skip": "Přeskočit"
   },
   "install": {
-    "installLocation": "Install Location",
-    "migration": "Migration",
-    "desktopSettings": "Desktop Settings",
+    "installLocation": "Umístění Instalace",
+    "migration": "Migrace",
+    "desktopSettings": "Nastavení Plochy",
     "chooseInstallationLocation": "Choose Installation Location",
     "systemLocations": "System Locations",
     "failedToSelectDirectory": "Failed to select directory",
