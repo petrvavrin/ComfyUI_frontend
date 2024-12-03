@@ -54,9 +54,9 @@
       "learnMoreAboutData": "Zjistěte víc o schromažďování dat",
       "dataCollectionDialog": {
         "title": "O Shromažďování Dat",
-        "whatWeCollect": "Jaká data shromaždujeme:",
-        "whatWeDoNotCollect": "What we don't collect:",
-        "errorReports": "Error message and stack trace",
+        "whatWeCollect": "Jaká data shromažďujeme:",
+        "whatWeDoNotCollect": "Jaká data neschromažďujeme:",
+        "errorReports": "Zpráva chyby a stack trace",
         "systemInfo": "Hardware, OS type, and app version",
         "personalInformation": "Personal information",
         "workflowContent": "Workflow content",
