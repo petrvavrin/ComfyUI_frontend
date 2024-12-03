@@ -53,8 +53,8 @@
       "allowMetricsDescription": "Pomozte zlepšit ComfyUI posíláním anonymních hlášení pádů. Žádné soukromé informace nebo obsah workflow nebudou schromažďovány. Toto může být zakázáno kdykoliv v nastavení.",
       "learnMoreAboutData": "Zjistěte víc o schromažďování dat",
       "dataCollectionDialog": {
-        "title": "O Schromažďování Dat",
-        "whatWeCollect": "What we collect:",
+        "title": "O Shromažďování Dat",
+        "whatWeCollect": "Jaká data shromaždujeme:",
         "whatWeDoNotCollect": "What we don't collect:",
         "errorReports": "Error message and stack trace",
         "systemInfo": "Hardware, OS type, and app version",
