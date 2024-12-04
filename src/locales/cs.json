@@ -120,64 +120,64 @@
   "reportIssue": "Odeslat Hlášení",
   "reportIssueTooltip": "Předložit Hlášení chyby do Comfy Org",
   "reportSent": "Hlášení posláno",
-  "copyToClipboard": "Copy to Clipboard",
+  "copyToClipboard": "Kopírovat do Schránky",
   "openNewIssue": "Open New Issue",
-  "showReport": "Show Report",
-  "imageFailedToLoad": "Image failed to load",
-  "reconnecting": "Reconnecting",
-  "reconnected": "Reconnected",
-  "delete": "Delete",
-  "rename": "Rename",
-  "customize": "Customize",
+  "showReport": "Ukázat Hlášení",
+  "imageFailedToLoad": "Obrázek se nepodařilo načíst",
+  "reconnecting": "Opětovné připojování",
+  "reconnected": "Opět připojeno",
+  "delete": "Smazat",
+  "rename": "Přejmenovat",
+  "customize": "Přizpůsobit",
   "experimental": "BETA",
   "deprecated": "DEPR",
-  "loadWorkflow": "Load Workflow",
-  "goToNode": "Go to Node",
-  "settings": "Settings",
+  "loadWorkflow": "Načíst Workflow",
+  "goToNode": "Jít do Uzlu",
+  "settings": "Nastavení",
   "settingsDialog": {
     "Comfy_ConfirmClear": {
-      "name": "Require confirmation when clearing workflow"
+      "name": "Požadovat potvrzení při mazání workflow"
     },
     "Comfy_DevMode": {
-      "name": "Enable dev mode options (API save, etc.)"
+      "name": "Povolit možnosti pro vývojáře (API save, atd.)"
     },
     "Comfy_DisableFloatRounding": {
-      "name": "Disable default float widget rounding.",
-      "tooltip": "(requires page reload) Cannot disable round when round is set by the node in the backend."
+      "name": "Zakázat výchozí zaokrouhlování u widgetu float.",
+      "tooltip": "(Vyžaduje načíst znovu stránku) Nelze zakázat round když je round nastaveno uzlem v backendu."
     },
     "Comfy_DisableSliders": {
-      "name": "Disable node widget sliders"
+      "name": "Zakázat posuvníky widgetu uzlu"
     },
     "Comfy_DOMClippingEnabled": {
-      "name": "Enable DOM element clipping (enabling may reduce performance)"
+      "name": "Povolit prořezávání elementu DOM (povolení může snížit výkon)"
     },
     "Comfy_EnableTooltips": {
-      "name": "Enable Tooltips"
+      "name": "Povolit Popisky"
     },
     "Comfy_EnableWorkflowViewRestore": {
-      "name": "Save and restore canvas position and zoom level in workflows"
+      "name": "Uložit a obnovit pozici a úroveň přiblížení plátna ve workflows"
     },
     "Comfy_Extension_Disabled": {
-      "name": "Disabled extension names"
+      "name": "Zakázené názvy rozšíření"
     },
     "Comfy_FloatRoundingPrecision": {
       "name": "Float widget rounding decimal places [0 = auto].",
       "tooltip": "(requires page reload)"
     },
     "Comfy_Graph_CanvasInfo": {
-      "name": "Show canvas info on bottom left corner (fps, etc.)"
+      "name": "Ukázat informace plátna v levém spodním rohu (fps, atd.)"
     },
     "Comfy_Graph_CanvasMenu": {
-      "name": "Show graph canvas menu"
+      "name": "Ukázat menu grafů plátna"
     },
     "Comfy_Graph_CtrlShiftZoom": {
-      "name": "Enable fast-zoom shortcut (Ctrl + Shift + Drag)"
+      "name": "Povolit zkratku pro rychlé přiblížení (Ctrl + Shift + Drag)"
     },
     "Comfy_Graph_LinkMarkers": {
       "name": "Link midpoint markers"
     },
     "Comfy_Graph_ZoomSpeed": {
-      "name": "Canvas zoom speed"
+      "name": "Rychlost přiblížení plátna"
     },
     "Comfy_Group_DoubleClickTitleToEdit": {
       "name": "Double click group title to edit"
