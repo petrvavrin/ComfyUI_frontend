@@ -180,35 +180,35 @@
       "name": "Rychlost přiblížení plátna"
     },
     "Comfy_Group_DoubleClickTitleToEdit": {
-      "name": "Double click group title to edit"
+      "name": "Upravit název seskupení Dvojitým kliknutím"
     },
     "Comfy_GroupSelectedNodes_Padding": {
-      "name": "Group selected nodes padding"
+      "name": "Seskupit vybrané uzly odsazení"
     },
     "Comfy_Keybinding_NewBindings": {
-      "name": "Keybindings set by the user"
+      "name": "Klávesové zkratky nastavené uživatelem"
     },
     "Comfy_Keybinding_UnsetBindings": {
-      "name": "Keybindings unset by the user"
+      "name": "Klávesové zkratky nenastavené uživatelem"
     },
     "Comfy_LinkRelease_Action": {
-      "name": "Action on link release (No modifier)"
+      "name": "Akce na uvolnění Odkazu (Žádný modifikátor)"
     },
     "Comfy_LinkRelease_ActionShift": {
-      "name": "Action on link release (Shift)"
+      "name": "Akce na uvolnění Odkazu (Shift)"
     },
     "Comfy_LinkRenderMode": {
-      "name": "Link Render Mode"
+      "name": "Režim Vykreslování Odkazu"
     },
     "Comfy_Locale": {
-      "name": "Language"
+      "name": "Jazyk"
     },
     "Comfy_ModelLibrary_AutoLoadAll": {
-      "name": "Automatically load all model folders",
-      "tooltip": "If true, all folders will load as soon as you open the model library (this may cause delays while it loads). If false, root level model folders will only load once you click on them."
+      "name": "Automaticky načíst všechny složky modelů",
+      "tooltip": "Pokud povoleno, všechny složky se načtou hned co otevřete knihovnu modelů (toto může způsobit zpoždění zatím co se to načítá). Pokud zakázáno, složky modelů kořenové úrovně se načtou pouze po kliknutí na ně."
     },
     "Comfy_ModelLibrary_NameFormat": {
-      "name": "What name to display in the model library tree view",
+      "name": "Jaký název zobrazit ve stromovém pohledu Knihovny modelů",
       "tooltip": "Select \"filename\" to render a simplified view of the raw filename (without directory or \".safetensors\" extension) in the model list. Select \"title\" to display the configurable model metadata title."
     },
     "Comfy_Node_AutoSnapLinkToSlot": {
