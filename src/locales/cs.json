@@ -209,7 +209,7 @@
     },
     "Comfy_ModelLibrary_NameFormat": {
       "name": "Jaký název zobrazit ve stromovém pohledu Knihovny modelů",
-      "tooltip": "Select \"filename\" to render a simplified view of the raw filename (without directory or \".safetensors\" extension) in the model list. Select \"title\" to display the configurable model metadata title."
+      "tooltip": "Vyberte \"název souboru\" pro vykreslení zjednodušeného pohledu na raw název souboru (bez adresáře nebo \".safetensors\" extension) in the model list. Select \"title\" to display the configurable model metadata title."
     },
     "Comfy_Node_AutoSnapLinkToSlot": {
       "name": "Auto snap link to node slot",
