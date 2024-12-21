@@ -312,6 +312,24 @@
       }
     }
   },
+  "CLIPTextEncodePixArtAlpha": {
+    "display_name": "CLIPTextEncodePixArtAlpha",
+    "description": "Encodes text and sets the resolution conditioning for PixArt Alpha. Does not apply to PixArt Sigma.",
+    "inputs": {
+      "width": {
+        "name": "width"
+      },
+      "height": {
+        "name": "height"
+      },
+      "text": {
+        "name": "text"
+      },
+      "clip": {
+        "name": "clip"
+      }
+    }
+  },
   "CLIPTextEncodeSD3": {
     "display_name": "CLIPTextEncodeSD3",
     "inputs": {
@@ -647,6 +665,31 @@
       },
       "end": {
         "name": "end"
+      }
+    }
+  },
+  "ConditioningStableAudio": {
+    "display_name": "ConditioningStableAudio",
+    "inputs": {
+      "positive": {
+        "name": "positive"
+      },
+      "negative": {
+        "name": "negative"
+      },
+      "seconds_start": {
+        "name": "seconds_start"
+      },
+      "seconds_total": {
+        "name": "seconds_total"
+      }
+    },
+    "outputs": {
+      "0": {
+        "name": "positive"
+      },
+      "1": {
+        "name": "negative"
       }
     }
   },
@@ -1154,6 +1197,23 @@
       },
       "type": {
         "name": "type"
+      }
+    }
+  },
+  "EmptyHunyuanLatentVideo": {
+    "display_name": "EmptyHunyuanLatentVideo",
+    "inputs": {
+      "width": {
+        "name": "width"
+      },
+      "height": {
+        "name": "height"
+      },
+      "length": {
+        "name": "length"
+      },
+      "batch_size": {
+        "name": "batch_size"
       }
     }
   },
@@ -4163,6 +4223,35 @@
       }
     }
   },
+  "Preview3D": {
+    "display_name": "Preview 3D",
+    "inputs": {
+      "model_file": {
+        "name": "model_file"
+      },
+      "show_grid": {
+        "name": "show_grid"
+      },
+      "camera_type": {
+        "name": "camera_type"
+      },
+      "view": {
+        "name": "view"
+      },
+      "material": {
+        "name": "material"
+      },
+      "bg_color": {
+        "name": "bg_color"
+      },
+      "light_intensity": {
+        "name": "light_intensity"
+      },
+      "up_direction": {
+        "name": "up_direction"
+      }
+    }
+  },
   "PreviewAudio": {
     "display_name": "PreviewAudio",
     "inputs": {
@@ -5281,6 +5370,9 @@
       },
       "tile_size": {
         "name": "tile_size"
+      },
+      "overlap": {
+        "name": "overlap"
       }
     }
   },

@@ -116,12 +116,6 @@ const serverConfigPanelNode: SettingTreeNode = {
   children: []
 }
 
-const extensionPanelNodeList = computed<SettingTreeNode[]>(() => {
-  const settingStore = useSettingStore()
-  const showExtensionPanel = settingStore.get('Comfy.Settings.ExtensionPanel')
-  return showExtensionPanel ? [extensionPanelNode] : []
-})
-
 /**
  * Server config panel is only available in Electron. We might want to support
  * it in the web version in the future.
@@ -140,7 +134,7 @@ const categories = computed<SettingTreeNode[]>(() =>
   [
     ...settingCategories.value,
     keybindingPanelNode,
-    ...extensionPanelNodeList.value,
+    extensionPanelNode,
     ...serverConfigPanelNodeList.value,
     aboutPanelNode
   ].map((node) => ({
@@ -190,7 +184,7 @@ const handleSearch = (query: string) => {
     const idLower = setting.id.toLowerCase()
     const nameLower = setting.name.toLowerCase()
     const translatedName = t(
-      `settingsDialog.${normalizeI18nKey(setting.id)}.name`
+      `settings.${normalizeI18nKey(setting.id)}.name`
     ).toLocaleLowerCase()
 
     return (
